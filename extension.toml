@@ -1,0 +1,7 @@
+[extension]
+id = "csv_preview"
+name = "Csv Preview"
+version = "0.1.0"
+description = "Csv Preview extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
